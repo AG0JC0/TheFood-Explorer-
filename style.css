@@ -1,6 +1,6 @@
 body{
   margin: 0px;
-  background: linear-gradient(aqua, yellow, red, white, aqua, red);
+  background: linear-gradient(aqua, yellow, red, white, aqua, yellow);
   background-repeat: no-repeat;
   
 }
