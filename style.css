@@ -1,6 +1,6 @@
 body{
   margin: 0px;
-  background: linear-gradient(aqua, yellow, red, white, aqua);
+  background: linear-gradient(aqua, yellow, red, white, aqua, red);
   background-repeat: no-repeat;
   
 }
@@ -43,20 +43,39 @@ td a{
   margin-left: 13px;
   width: 97%;
   border-radius: 60px;
-  height: 1790px;
+  height: 2929px;
   background: linear-gradient(lemonchiffon, lavender, navajowhite );
 }
 hr{
   height: 8px;
   background: darkgoldenrod
 }
+video{
+  border: 8px solid blue;
+  opacity: 90%;
+  background: aquamarine;
+  background-size: 00px;
+  
+  width: 624px;
+  height: 1110px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  margin-left: 158px;
+}
+video source{
+  width: 134px;
+  padding-left: 33px;
+  background-size: auto;
+}
 p{
   font-family: cursive;
   font-size: 70px;
   text-align: center;
   font-weight: bold;
-  color: dodgerblue;
-  text-shadow: 3px 5px 2px yellow;
+  color: blue;
+  text-shadow: 7px 8px 7px yellow;
 }
 h2{
   margin-top: 33px;
@@ -65,7 +84,7 @@ h2{
   font-family: sans-serif;
   font-weight: bold;
   color: crimson;
-  text-shadow: 3px 4px 4px white;
+  text-shadow: 3px 14px 7px white;
 }
 
 
