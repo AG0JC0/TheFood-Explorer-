@@ -59,6 +59,17 @@ h2{
   color:   blue;
   text-shadow: 3px 4px 4px yellow;
 }
+.footer{
+       
+       font-size: 50px;
+       margin-top: 20px;
+       height: 80px;
+       background: gainsboro;
+       color: black;
+       font-family: serif;
+       font-weight: bold;
+       text-align: center;
+}
 {
   color: lightgoldenrodyellow lemonchiffon plum turquoise navajowhite lightpink lightsalmon cornflowerblue  mistyrose lavenderblush lavender 
 }
